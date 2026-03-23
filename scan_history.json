@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-03-23 18:42:07",
+    "snippet": "International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056\nVolume: 12 Issue: 11 | Nov 2025 w\u2026",
+    "percentage": 27.2,
+    "label": "No Plagiarism Detected",
+    "sentence_count": 142,
+    "flagged_count": 2
+  },
+  {
+    "timestamp": "2026-03-23 18:41:46",
+    "snippet": "GOOGLE DEVELOPERS GROUPS\n                              CYBER-SECURITY TECHNICAL TEAM\nTopic \u2013 HUMAN INTERFACE DEVICE  DEF\u2026",
+    "percentage": 24.3,
+    "label": "No Plagiarism Detected",
+    "sentence_count": 13,
+    "flagged_count": 0
+  },
+  {
+    "timestamp": "2026-03-23 18:41:28",
+    "snippet": "Good  afternon everyone how are you all !!",
+    "percentage": 50.0,
+    "label": "Plagiarism Detected",
+    "sentence_count": 1,
+    "flagged_count": 0
+  }
+]
